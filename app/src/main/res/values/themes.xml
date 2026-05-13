@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Using a modern Material3 DayNight theme is better for edge-to-edge support -->
+    <style name="Theme.NammaShaleInventoryEducation" parent="@style/Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional: set status bar color to transparent if not using enableEdgeToEdge,
+             but enableEdgeToEdge() in activity handles this. -->
+    </style>
+</resources>
